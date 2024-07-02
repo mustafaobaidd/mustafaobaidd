@@ -1,9 +1,7 @@
 ### Hello World!
-<br/>
 I'm Sharing About My Journey and Learnings in Tech
 <br/>
 Studied Software Engineering at the Philadelphia University of Jordan, Jarash
-<br/>
 <br/>
 
 ### Tech Stack:
@@ -13,7 +11,6 @@ Studied Software Engineering at the Philadelphia University of Jordan, Jarash
 <br/>
 
 ### GitHub Stats:
-<br/>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mustafaobaidd&show_icons=true&theme=dark"
