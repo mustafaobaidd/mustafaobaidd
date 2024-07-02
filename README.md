@@ -22,3 +22,10 @@ Studied Software Engineering at the Philadelphia University of Jordan, Jarash
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mustafaobaidd&show_icons=true" />
 </picture>
+
+----
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
