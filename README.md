@@ -1,6 +1,6 @@
 ### Hello World!
 <br/>
-Software Engineer Sharing About My Journey and Learnings in Tech
+I'm Sharing About My Journey and Learnings in Tech
 <br/>
 Studied Software Engineering at the Philadelphia University of Jordan, Jarash
 <br/>
