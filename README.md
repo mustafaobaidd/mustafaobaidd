@@ -4,6 +4,8 @@
 <br/>
 👩🏻‍🎓 Studied Software Engineering at the Philadelphia University of Jordan, Jarash
 <br/>
+<br/>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mustafaobaidd&show_icons=true&theme=dark"
