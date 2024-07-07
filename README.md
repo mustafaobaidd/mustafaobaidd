@@ -10,7 +10,17 @@ Studied Software Engineering at the Philadelphia University of Jordan, Jarash
 
 <br/>
 
-### GitHub Stats:
+---
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mustafaobaidd&theme=dark&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+---
+<br/>
+
+<p align="center">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mustafaobaidd&show_icons=true&theme=dark"
@@ -22,8 +32,7 @@ Studied Software Engineering at the Philadelphia University of Jordan, Jarash
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mustafaobaidd&show_icons=true" />
 </picture>
-
-<br/>
+</p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaobaidd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
@@ -34,4 +43,9 @@ Studied Software Engineering at the Philadelphia University of Jordan, Jarash
   
 </div>
 
+---
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
