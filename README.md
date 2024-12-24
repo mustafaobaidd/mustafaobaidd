@@ -11,12 +11,6 @@ Studied Software Engineering at the Philadelphia University of Jordan, Jarash
 <br/>
 
 ---
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mustafaobaidd&theme=dark&hide_border=true&border_radius=5&card_width=800">
-</p>
-
----
 <br/>
 
 <p align="center">
